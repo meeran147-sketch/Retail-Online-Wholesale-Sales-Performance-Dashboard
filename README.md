@@ -1,2 +1,4 @@
 # Retail-Online-Wholesale-Sales-Performance-Dashboard
-nteractive MS Excel dashboard that analyzes sales performance across retail, online, and wholesale channels, providing insights into revenue trends, regional sales, product category performance, and key business KPIs through dynamic visualizations and slicers.
+
+## Project objective
+The primary objective of this **Retail, Online & Wholesale Sales Performance Dashboard** is to analyze and monitor sales performance across multiple sales channels using interactive data visualizations. The dashboard is designed to track key business metrics such as total sales, orders, quantity sold, and unit prices while providing insights into regional and product category performance. It helps identify sales trends, compare performance across different regions and channels, and evaluate monthly revenue patterns. By transforming raw sales data into meaningful charts, KPIs, and reports, the dashboard enables users to make informed business decisions, uncover growth opportunities, and improve overall sales strategy through data-driven analysis.
